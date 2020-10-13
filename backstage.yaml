@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: TodoList-Typescript
+  description: 
+  annotations:
+    github.com/project-slug: mcalus3/TodoList-Typescript
+spec:
+  type: service
+  owner: mcalus3
+  lifecycle: experimental
